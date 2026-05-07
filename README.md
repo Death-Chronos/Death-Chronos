@@ -13,5 +13,5 @@ Desenvolvedor apaixonado por tecnologia e resolução de problemas. Atualmente f
 - 👯 Co-fundador da Startup **SerTão Devs**.
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Death-Chronos&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Death-Chronos&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Death-Chronos&show_icons=true&theme=radical&include_all_commits=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Death-Chronos&layout=donut&theme=radical)
