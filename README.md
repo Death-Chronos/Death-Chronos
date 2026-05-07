@@ -1,4 +1,4 @@
-## Olá! Eu sou o [João Victor] 👋
+## Olá! Eu sou o João Victor 👋
 
 Desenvolvedor apaixonado por tecnologia e resolução de problemas. Atualmente focado em [Desenvolvimento Back-End].
 
